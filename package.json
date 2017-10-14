@@ -1,0 +1,24 @@
+{
+  "name": "generator-drupal-theme",
+  "version": "0.0.1",
+  "description": "Generate Drupal Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman",
+    "generator",
+    "drupal",
+    "theme",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  },
+  "author": "Israel Morales",
+  "license": "ISC"
+}
